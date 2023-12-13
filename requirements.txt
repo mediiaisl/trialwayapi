@@ -1,0 +1,7 @@
+Flask
+Requests
+scikit_learn
+scipy
+sentence_transformers
+spacy
+torch
